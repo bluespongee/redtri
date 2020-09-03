@@ -1,0 +1,100 @@
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+  line-height: 0.1;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+  line-height: 0.01;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.spoiler { 
+  color: white; 
+  background-color:white;
+}
+
+.spoiler:hover { 
+  background-color:black;
+}
+
+.hintblack {
+  color: black;
+}
+
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none; 
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+.topnav {
+    background-color: #000000;
+    overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav-right {
+ float: right;
+

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<div class="topnav">
+ <img src="images/redtri4.gif" width="70" height="70">
+ <div class="topnav-right">
+ <a href="../hints.htm" target="-empty">Hints</a>
+ <a href="../info.htm" target="-empty">Info</a>
+ <a href="../nothing.htm" target="-empty">????</a>
+ </div>
+</div>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="../style.css">
+<img src="../images/act/.jpg" class="center">
+<audio src="../music/bgm1.mp3" autoplay loop></audio>
+</body>
+</html>
